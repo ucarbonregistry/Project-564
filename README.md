@@ -26,6 +26,25 @@ Estimated amount of total
 GHG emission reductions
 To be estimated during verification
 [An ex-ante estimate is 4,144 CoUs per year]
+
+Country : India
+
+State : Gujarat
+Village : Godha
+
+Taluka : Meghraj
+
+District : Arvalli
+
+The project site is in Village - Godha, Taluka – Meghraj of Arvalli district, Gujarat. The project site is
+well connected from the airport and the railway station. The geographic coordinates of the project
+location have been given below.
+____________
+Site Name Latitude Longitude
+__________
+M/s. Shree Nandkishor Metals Pvt. Ltd. 23°34'05.0"N 73°34'13.0"E
+________
+M/s. Devkinandan Metals Pvt. Ltd. 23°34'00.0"N 73°34'20.0"E
 _________________
 The proposed project titled under UCR is “2.5 MW Bundled Small Scale Solar Power Project in
 Arvalli, Gujarat.”, which is a grid connected solar power project located in the district Arvalli, in the
@@ -34,7 +53,7 @@ project activity are ‘M/s. Shree Nandkishor Metals Pvt. Ltd., and M/s. Devkina
 (herein after called as Project Proponent or PP). PP has the full ownership of the project activity. This
 project is an operational activity with continuous reduction of GHG, currently being applied under
 “Universal Carbon Registry” (UCR).
-A.1.1 Purpose of the project activity:
+
 The purpose of the proposed project activity is to generate electricity using a clean and renewable source
 of energy i.e., solar radiation. The proposed project activity of Solex with aggregated 2.5 MW (i.e.,
 2500 kWp) is installation and operation of solar power plant at Village – Godha, Taluka – Meghraj, in
